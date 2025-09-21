@@ -2,19 +2,20 @@
 
 This repository contains the latest builds of Alvrion H2T Browser.
 
-**Latest Version:** [v1.0.7](releases/v1.0.7/)
-**Last Updated:** 2025-09-21 18:48:26 UTC
+**Latest Version:** [v1.0.8](releases/v1.0.8/)
+**Last Updated:** 2025-09-21 18:50:31 UTC
 
 ## Quick Download
 
-### Latest Release (v1.0.7)
-- [macOS Intel DMG](releases/v1.0.7/releases/v1.0.7/)Alvrion H2T Browser-1.0.0-arm64.dmg
-- [macOS Apple Silicon DMG](releases/v1.0.7/releases/v1.0.7/)Alvrion H2T Browser-1.0.0-arm64.dmg
-- [Windows Installer](releases/v1.0.7/releases/v1.0.7/)Alvrion H2T Browser Setup 1.0.0.exe
-- [Linux AppImage](releases/v1.0.7/releases/v1.0.7/)Alvrion H2T Browser-1.0.0.AppImage
+### Latest Release (v1.0.8)
+- [macOS Intel DMG](releases/v1.0.8/releases/v1.0.8/)Alvrion Browser-1.0.0-arm64.dmg
+- [macOS Apple Silicon DMG](releases/v1.0.8/releases/v1.0.8/)Alvrion Browser-1.0.0-arm64.dmg
+- [Windows Installer](releases/v1.0.8/releases/v1.0.8/)Alvrion Browser Setup 1.0.0.exe
+- [Linux AppImage](releases/v1.0.8/releases/v1.0.8/)Alvrion Browser-1.0.0.AppImage
 
 ## All Releases
 
+- [v1.0.8](releases//)
 - [v1.0.7](releases//)
 - [v1.0.6](releases//)
 - [v1.0.5](releases//)
